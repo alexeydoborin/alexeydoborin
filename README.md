@@ -38,4 +38,4 @@ Git • GitHub • Docker • Linux • Postman
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=alexeydoborin&show_icons=true&theme=dark)
