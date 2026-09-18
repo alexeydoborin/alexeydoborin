@@ -38,4 +38,7 @@ Git • GitHub • Docker • Linux • Postman
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alexeydoborin&show_icons=true&theme=dark)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/alexeydoborin&query=$.public_repos&label=Repos&style=for-the-badge&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/alexeydoborin/alexeydoborin?style=for-the-badge)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=alexeydoborin&show_icons=true&theme=dark)](https://streak-stats.demolab.com/?user=alexeydoborin&theme=dark)
